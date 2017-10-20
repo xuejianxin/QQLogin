@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="password">密码</string>
+    <string name="account">手机号/邮箱</string>
+    <string name="login">登录</string>
+    <string name="forget">忘记密码？</string>
+    <string name="register">新用户注册</string>
+    <string name="agree">登录即代表同意服务条款</string>
+    <string name="terms">服务条例</string>
+    <string name="back">返回</string>
+    <string name="phone">输入手机号码</string>
+    <string name="third">第三方账号登录</string>
+    <string name="next">下一步</string>
+    <string name="no_install_qq">未安装QQ</string>
+    <string name="no_install_wechat">未安装微信</string>
+    <string name="tip_account_empty">请输入您的手机号或邮箱地址</string>
+    <string name="tip_account_regex_not_right">手机号格式不正确</string>
+    <string name="tip_password_can_not_be_empty">密码不能为空</string>
+    <string name="country_number">国家/地区</string>
+    <string name="country_code">+86</string>
+    <string name="tip_begin_oauth">开始授权…</string>
+    <string name="oauth_fail">授权失败</string>
+    <string name="oauth_cancle">授权取消</string>
+</resources>
